@@ -22,7 +22,7 @@
 
 下载的东西如下图   
 
-![图片1](\1.png)
+![图片1](/环境配置/1.png)
 
 **记住下载的位置**
 
@@ -36,23 +36,23 @@
 
 点击环境变量进入，打开Path
 
-![图片2](\2.png)
+![图片2](/环境配置/2.png)
 
-![图片4](\4.png)
+![图片4](/环境配置/3.png)
 
 **Anaconda**需要的路径如下：
 
-![图片5](\5.png)
+![图片5](/环境配置/5.png)
 
 **Cuda**需要的路径如下：
 
-![图片3](\3.png)
+![图片3](/环境配置/3.png)
 
 <em>配置完成如下图</em>
 
-![图片6](\6.png)
+![图片6](/环境配置/6.png)
 
-![图片7](\7.png)
+![图片7](/环境配置/7.png)
 
 #### 4.Ubuntu anaconda cuda安装
 
@@ -68,7 +68,7 @@
 
 [CUDA下载地址]([CUDA Toolkit 12.5 Downloads | NVIDIA Developer](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local) "CUDA下载")  
 
-![图片8](\8.png)
+![图片8](/环境配置/8.png)
 
  按照上图找到安装命令<em> 白色的框表示选中</em>
 
@@ -108,11 +108,11 @@ conda create –n <em>虚拟环境的名字</em>  python=3.8  创建环境
 
 activate conda <em>虚拟环境的名字</em>
 
-![图片9](\9.png)
+![图片9](/环境配置/9.png)
 
 官网将这段指令粘到启动的虚拟环境里                                                                                                                           cuda版本要匹配:cmd里面输入nvidai-smi可查看版本
 
-![图片10](\10.png)
+![图片10](/环境配置/10.png)
 
 安装完成后输入python
 
@@ -144,11 +144,11 @@ pip install --editable .依次输入
 
 若可以成功运行用pycharm打开example，修改下面这一行**cpu**改成**cuda**
 
-![图片11](\11.png)
+![图片11](/环境配置/11.png)
 
 再运行一次
 
-![图片12](\12.png)
+![图片12](/环境配置/12.png)
 
 如果结果这里显示**device：cuda**
 
