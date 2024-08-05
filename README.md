@@ -43,7 +43,7 @@
 ![fig2](/fig/fig.png)
 ## 模型
 1.经典神经模型:  
-![fig3](/fig/fig（2）.png)  
+![fig3](/fig/fig (2).png)  
 
 编码后的数据首先进入LSTM层处理，取LSTM层的最后一位输出。随后再经过全连接层输出预测数据  
 
