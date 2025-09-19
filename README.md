@@ -60,7 +60,7 @@
 编码层部分使用双角编码法将数据编码为量子态。变分层使各个数据产生纠缠，随后Ansatz线路的旋转门旋转数据。测量层测量量子状态并将结果输出
 
 ## License
-Our model and code are released under MIT License, and can be freely used for both academic and commercial purposes.
+Our model and code are released under GNU General Public License v3.0, and can be freely used for both academic and commercial purposes.
 
 
 
