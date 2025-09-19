@@ -63,6 +63,7 @@
 Our model and code are released under GNU General Public License v3.0, and can be freely used for both academic and commercial purposes.
 
 
-
+## Cite
+If you use this code or the models in your research, please cite the following paper:
 
 
